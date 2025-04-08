@@ -1,2 +1,2 @@
-# ProjelerimVeDerslerim
-Bilgisayar Mühendisliği eğitimine devam ederken yaptığım bazı projeler, notlar ve raporlarım.
+# SİSTEM PROGRAMLAMA
+Sistem programşlama dersi için yaptığım bazı çalışmalar.
